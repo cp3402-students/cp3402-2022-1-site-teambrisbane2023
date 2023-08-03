@@ -11,3 +11,12 @@ Updated: 2023-08-02 20:55:36
 
 */
 
+.page .slider-area, .single .slider-area, .search .slider-area, .error404 .slider-area, .archive .slider-area {
+    position: relative;
+    display: none;
+    z-index: 1;
+    overflow: initial;
+    padding: 11em 0 1.3em;
+    background: #808080;
+    height: 100%;
+}
