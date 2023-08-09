@@ -20,3 +20,13 @@ Updated: 2023-08-02 20:55:36
     background: #808080;
     height: 100%;
 }
+
+.main-header .navbar .navbar-toggler {
+    color: #2c83f4;
+    position: relative;
+    border-color: #2c83f4;
+}
+
+.scroll-top {
+	display: none;
+}
