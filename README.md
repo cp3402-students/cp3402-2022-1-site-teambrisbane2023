@@ -7,9 +7,9 @@ Team Members:-
 
 The following documentation files are aimed at helping new developers and site owners to continue the development of the website:
 
-* [Theme.md](Theme.md)
-* [Development.md](Deployment.md)
-* [Site.md](Site.md)
+* [Theme.md](theme.md)
+* [Deployment.md](deployment.md)
+* [Site.md](site.md)
 
 The file [a2.html](a2.html) includes:
 
