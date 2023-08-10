@@ -37,6 +37,16 @@ We employ this service for both the <a href="https://ramtha3dreampress.stage.sit
 
 - Our version control is overseen through [Github](https://github.com/cp3402-students/cp3402-2022-1-site-teambrisbane2023).
 - Version control involves comparing previous and current versions of code or files to monitor changes introduced by each repository member.
-- Using Github Desktop, we transmitted our commits to GitHub. To maintain repository accuracy, we continually updated our files after uploading them.
+- Using GitHub Desktop, we transmitted our commits to GitHub. To maintain repository accuracy, we continually updated our files after uploading them.
 
-We used GitHub for verstion control because GitHub simplifies version control and collaboration, allowing developers to work on features separately, merge changes seamlessly, and maintain a clear history. It combines issue tracking, code reviews, and automated testing through CI tools. GitHub's community engagement fosters openness and accessibility, while its security features ensure controlled access and management of projects.
+We used GitHub for version control because GitHub simplifies version control and collaboration, allowing developers to work on features separately, merge changes seamlessly, and maintain a clear history. It combines issue tracking, code reviews, and automated testing through CI tools. GitHub's community engagement fosters openness and accessibility, while its security features ensure controlled access and management of projects.
+
+# Project Management
+
+To enhance communication and task coordination, we utilized Slack Channel, GitHub repository, and Trello board:
+
+- [GitHub Repository](https://github.com/cp3402-students/cp3402-2022-1-site-teambrisbane2023.git): This served as a collaborative platform for project development and monitoring changes made by team members to project files.
+
+- [Trello Board](https://trello.com/b/VNpcLBjb/teambrisbane-cp3402): It facilitated ideation, planning, and organized team collaboration in a productive manner.
+
+- [Slack Channel](https://join.slack.com/t/jcu-mxs2406/shared_invite/zt-21ab4cwuo-Pgh9gn1LQ~LGMUPtIZHvKA): By integrating GitHub repository and Trello board with Slack, automatic notifications and updates were channelled, ensuring visibility into ongoing work across the team.
