@@ -17,3 +17,18 @@ Recommended development workflow: -
 
 7. After the main branch has been merged and synchronized with the alterations, the repository can be fetched to the local environment. Subsequently, it can be compressed into a zip file and uploaded to the staging site through appearance/theme/add new. The theme should then be activated for testing purposes on the staging website. Once successful testing has been confirmed on the staging website, the theme's zip folder can be transferred and uploaded to the production site.
 
+# Web Hosting
+
+We have opted for the web hosting services of <a href="https://www.dreamhost.com/">Dreamhost</a> due to its provision of the following features:
+- Unlimited website hosting
+- Simple domain addition
+- Unlimited data traffic
+- Limitless bandwidth usage
+- 30GB SSD storage capacity
+- Easy one-click installation for WordPress
+- Complimentary SSL certificate
+- Continuous 24/7 customer support
+
+We employ this service for both the <a href="https://ramtha3dreampress.stage.site">Staging Site</a> and the <a href="https://ramtha3.dream.press">Production Site</a>. The staging server is secured with a password to avoid search engine confusion with the live site. To access the staging server, the necessary username and password details can be found in [a2.html](a2.html).
+
+![Dreamhost](https://thumbs2.imgbox.com/de/d2/mL2rshUg_t.png)
