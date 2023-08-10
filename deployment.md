@@ -32,3 +32,11 @@ We have opted for the web hosting services of <a href="https://www.dreamhost.com
 We employ this service for both the <a href="https://ramtha3dreampress.stage.site">Staging Site</a> and the <a href="https://ramtha3.dream.press">Production Site</a>. The staging server is secured with a password to avoid search engine confusion with the live site. To access the staging server, the necessary username and password details can be found in [a2.html](a2.html).
 
 ![Dreamhost](https://thumbs2.imgbox.com/de/d2/mL2rshUg_t.png)
+
+# Version Control
+
+- Our version control is overseen through [Github](https://github.com/cp3402-students/cp3402-2022-1-site-teambrisbane2023).
+- Version control involves comparing previous and current versions of code or files to monitor changes introduced by each repository member.
+- Using Github Desktop, we transmitted our commits to GitHub. To maintain repository accuracy, we continually updated our files after uploading them.
+
+We used GitHub for verstion control because GitHub simplifies version control and collaboration, allowing developers to work on features separately, merge changes seamlessly, and maintain a clear history. It combines issue tracking, code reviews, and automated testing through CI tools. GitHub's community engagement fosters openness and accessibility, while its security features ensure controlled access and management of projects.
