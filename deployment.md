@@ -7,7 +7,7 @@ Recommended development workflow: -
 
 2. Set up a database server in your local environment by accessing localhost/phpmyadmin. Next, establish a database named after your website and import the database into the newly created one. Ensure that the current website's SQL is saved as 'project.sql' located in <a href="https://github.com/cp3402-students/cp3402-2022-1-site-teambrisbane2023">GitHub repository.</a>
 
-3. Due to GitHub's restrictions on uploading large files, we've chosen to upload the file to Google Drive instead. Here is the complete website in its entirety.<a href="https://drive.google.com/file/d/1yTMgs9IGKYnFOw9PI_X0WhrwUsZXlija/view?usp=share_link">Click here</a> . 
+3. Due to GitHub's restrictions on uploading large files, we've chosen to upload the file to Google Drive instead. Here is the complete website in its entirety.<a href="https://drive.google.com/file/d/1TOoFkTJ2DF2K_DZ_1ayyq_ffJ6C52OfR/view?usp=sharing">Click here</a> . 
 
 4. Retrieve the folder by cloning or downloading it from the <a href="https://github.com/cp3402-students/cp3402-2022-1-site-teambrisbane2023.git">GitHub</a> repository named 'miri-piri-cleaning' to your desktop. If you've downloaded the folder, be sure to unzip it. This folder represents the child theme for the complete website.
 
